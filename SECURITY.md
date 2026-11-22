@@ -6,7 +6,7 @@ Security fixes go into the latest release of chiaki-ng. Please update to it befo
 
 ## Reporting a Vulnerability
 
-Please don't report security issues in public issues, discussions or Discord.
+Please don't report security issues in public issues or discussions.
 
 Report them privately through GitHub instead: open the [Security tab](https://github.com/chiaki-ng/chiaki-ng/security) and choose **Report a vulnerability**, or go straight to [a new advisory](https://github.com/chiaki-ng/chiaki-ng/security/advisories/new).
 

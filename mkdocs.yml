@@ -72,8 +72,6 @@ extra:
       link: https://github.com/chiaki-ng/chiaki-ng
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/u/Street_Pea_6693/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/tAMbRuwXDH
   analytics:
     provider: google
     property: G-LCLEDWLWSR
